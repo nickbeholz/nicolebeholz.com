@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Nicole Beholz
+email: nicole.beholz@googlemail.com
+url: https://nicolebeholz.com
+description: "Freelance support for ideation, concept development, project management, and process optimization."
+skills: "Creative Concepts & Project Management"
+meta_author: Nicole Beholz
 
 # Google webmaster tools
 google_verify:
@@ -31,31 +31,28 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Nicole Beholz
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/nicole-beholz-61aa6151
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://twitter.com/nicktoolate
+  - title: instagram
+    url: http://instagram.com/nicktoolate
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Große Freiheit 69
+  - line: 22767 Hamburg
+  - line: Germany
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Website design based on “Freelancer” theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

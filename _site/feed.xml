@@ -1,83 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Freelancer</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://example.github.io/</link>
+    <title>Nicole Beholz</title>
+    <description>Freelance support for ideation, concept development, project management, and process optimization.</description>
+    <link>https://nicolebeholz.com/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Jul 2016 18:25:19 +0100</pubDate>
-    <lastBuildDate>Mon, 11 Jul 2016 18:25:19 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2016 12:36:12 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 12:36:12 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Project 1</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
-        <link>https://example.github.io/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://example.github.io/web%20development/2014/07/18/project-1/</guid>
+        <title>Kleinerdrei</title>
+        <description>kleinerdrei is a place for everything that’s important in the first three years of life: From romper suits to first shoes, from shape sorters to baby slings. Ergonomic, environmentally-friendly and sustainable – and with a design that makes children and parents happy. kleinerdrei combines a concept store with a wide ranged offer of courses for babies and parents and with a midwife practice.</description>
+        <pubDate>Tue, 12 Jul 2016 00:00:00 +0100</pubDate>
+        <link>https://nicolebeholz.com/2016/07/12/kleinerdrei/</link>
+        <guid isPermaLink="true">https://nicolebeholz.com/2016/07/12/kleinerdrei/</guid>
         
-        
-        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Project 2</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 +0100</pubDate>
-        <link>https://example.github.io/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://example.github.io/web%20development/2014/07/17/project-2/</guid>
+        <title>Zweimeilenladen</title>
+        <description>Zweimeilenladen is a pop-up store concept for local products and local production. It gathered the best products produced within a two-mile-radius in Hamburg and Berlin. The range of goods included coffee and chocolate as well as clothing and accessories, utensils for urban gardeners as well as books, bikes and beds. In addition, we hosted numerous events and workshops on the subject of local production and DIY.</description>
+        <pubDate>Mon, 11 Jul 2016 00:00:00 +0100</pubDate>
+        <link>https://nicolebeholz.com/2016/07/11/zweimeilenladen/</link>
+        <guid isPermaLink="true">https://nicolebeholz.com/2016/07/11/zweimeilenladen/</guid>
         
-        
-        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Project 3</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 +0100</pubDate>
-        <link>https://example.github.io/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://example.github.io/web%20development/2014/07/16/project-3/</guid>
+        <title>Todayimade</title>
+        <description>We built TodayImade to help people share the stuff they made. From April 2012 to April 2013 we collected crazy and unexpected, beautiful and helpful things – from small robots to amazing food, from clothes to web apps. Our motto was: It does not matter what you make. What matters is that you make stuff – so be proud of it!</description>
+        <pubDate>Sun, 10 Jul 2016 00:00:00 +0100</pubDate>
+        <link>https://nicolebeholz.com/2016/07/10/todayimade/</link>
+        <guid isPermaLink="true">https://nicolebeholz.com/2016/07/10/todayimade/</guid>
         
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 4</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>https://example.github.io/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://example.github.io/web%20development/2014/07/15/project-4/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 6</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>https://example.github.io/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://example.github.io/web%20development/2014/07/15/project-6/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 5</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0100</pubDate>
-        <link>https://example.github.io/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://example.github.io/web%20development/2014/07/14/project-5/</guid>
-        
-        
-        <category>Web Development</category>
         
       </item>
     
