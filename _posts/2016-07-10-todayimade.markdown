@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: cabin.png
+img: todayimade.jpg
 alt: image-alt
 link: "http://www.todayimade.co/"
 project-date: 2012 – 2013
