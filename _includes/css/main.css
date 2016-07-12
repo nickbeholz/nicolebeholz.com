@@ -409,6 +409,14 @@ footer .footer-below {
     margin: 30px 0;
 }
 
+.portfolio-modal .modal-content .item-details dl {
+    margin-bottom: 1em;
+}
+
+.portfolio-modal .modal-content button {
+    margin-top: 2em;
+}
+
 .portfolio-modal .close-modal {
     position: absolute;
     top: 25px;
