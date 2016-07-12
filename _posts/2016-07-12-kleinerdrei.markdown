@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 1
-img: cabin.png
-alt: image-alt
+img: kleinerdrei.jpg
+alt: kleinerdrei Concept Store in Hamburg
 link: "http://www.kleinerdrei.co"
 project-date: 2014 to present
 client: Own project

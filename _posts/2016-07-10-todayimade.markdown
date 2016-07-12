@@ -9,3 +9,4 @@ client: Own project
 role: Co-founder
 service: Concept development, strategy, design, community and content management
 description: "We built TodayImade to help people share the stuff they made. From April 2012 to April 2013 we collected crazy and unexpected, beautiful and helpful things – from small robots to amazing food, from clothes to web apps. Our motto was: It does not matter what you make. What matters is that you make stuff – so be proud of it!"
+---
