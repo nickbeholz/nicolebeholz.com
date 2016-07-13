@@ -183,7 +183,7 @@ section.success {
   font-family: 'Playfair Display', serif;
   font-size: 1.75em;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.45;
 }
 
 #about p {
@@ -331,7 +331,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 65px 0 0 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
