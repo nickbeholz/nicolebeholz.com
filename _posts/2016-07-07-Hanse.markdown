@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+img: todayimade.jpg
+alt: Hanse_Diplom_Nicole_Beholz
+link: "http://www.todayimade.co/"
+project-date: 2009
+client: Own project (diploma thesis)
+role: Graduating student
+service: Concept development, design, execution, photo production
+description: "Hanse is an avant-garde fashion collection highlighting Hanseatic features, exclusive prints and draped shapes."
+---
