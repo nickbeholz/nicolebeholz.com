@@ -6,7 +6,7 @@ alt: Abhati Suisse Skincare Products
 link: "http://www.abhatisuisse.com/"
 project-date: 2013 – 2014
 client: Abhati at Paperlux
-role: Projectmanager
-service: Project management of creative process, crowfunding video
-description: "Abhati combines Indian and Swiss herbology with Swiss technology for a new range of premium natural skincare products. A liquid soap called “One Hand Washes The Other” is its headline product. The clou: If you buy this soap 50% of the proceeds are being passed on to buy toilets for schools in India that have none. "
+role: Project manager
+service: Project management of creative process, crowdfunding video
+description: "Abhati combines Indian and Swiss herbology with Swiss technology for a new range of premium natural skincare products. A liquid soap called “One Hand Washes The Other” is its headline product. The clou: If you buy this soap 50% of the proceeds are being passed on to buy toilets for schools in India that have none."
 ---
