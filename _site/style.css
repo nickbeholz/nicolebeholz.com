@@ -186,8 +186,11 @@ section.success {
     z-index: 2;
 }
 
-#portfolio .brands {
-  margin-top: 2em;
+#portfolio .brands p {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.75em;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
 #about p {

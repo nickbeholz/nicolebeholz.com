@@ -7,6 +7,6 @@ link: "http://www.abhatisuisse.com/"
 project-date: 2013 – 2014
 client: Abhati at Paperlux
 role: Project manager
-service: Project management, coordination of creative process, concept development and production of crowdfunding video
+service: Project management, coordination of creative process, concept development and production crowdfunding video
 description: "Abhati combines Indian and Swiss herbology with Swiss technology for a new range of premium natural skincare products. A liquid soap called “One Hand Washes The Other” is its headline product. 50% of the proceeds are being passed on to buy toilets for schools in India. We developed branding and packaging and produced a crowdfunding video for it."
 ---
