@@ -1,7 +1,7 @@
 # Site settings
 title: Nicole Beholz
 email: nicole.beholz@googlemail.com
-url: https://nicolebeholz.com
+url: http://nicolebeholz.com
 description: "Freelance support for ideation, concept development, project management, and process optimization."
 skills: "Creative Concepts & Project Management"
 meta_author: Nicole Beholz
@@ -32,8 +32,8 @@ color:
 # Footer settings
 footer:
   copyright: Nicole Beholz
-  location: Location
-  social: Around the Web
+  location: Postal Address
+  social: Other Profiles
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
