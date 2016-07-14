@@ -3,6 +3,7 @@ layout: default
 modal-id: 5
 img: arjowiggings.jpg
 alt: Arjowiggings Creative Papers
+attribution: Photo by C. Rauen
 link: "http://www.arjowiggins.com/"
 project-date: 2013
 client: Arjowiggings at Paperlux

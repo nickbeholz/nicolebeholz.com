@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 img: abhati.jpg
 alt: Abhati Suisse Skincare Products
+attribution: Photo by T. Korf
 link: "http://www.abhatisuisse.com/"
 project-date: 2013 – 2014
 client: Abhati at Paperlux

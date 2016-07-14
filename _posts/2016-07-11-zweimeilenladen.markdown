@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 img: zweimeilenladen.jpg
 alt: Zweimeilenladen Pop-up Store in Hamburg
+attribution: Photo by V. Heyde
 link: "http://zweimeilenladen.de/"
 project-date: 2012 & 2014
 client: Own project

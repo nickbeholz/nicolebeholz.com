@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 img: kleinerdrei.jpg
 alt: kleinerdrei Concept Store in Hamburg
+attribution: Photo by D. Manduzio
 link: "http://www.kleinerdrei.co"
 project-date: 2014 to present
 client: Own project

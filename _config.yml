@@ -52,7 +52,7 @@ address:
   - line: Germany
 
 # Credits content
-credits: 'Website design based on “Freelancer” theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Design based on <a href="https://jeromelachaud.github.io/freelancer-theme/">“Freelancer” theme</a>. Images courtesy of <a href="http://new.stillfiles.com/">D. Manduzio</a>, <a href="https://about.me/valentinheyde">V. Heyde</a>, <a href="http://thomaskorf.com/">T. Korf</a> and <a href="http://www.carolinrauen.com/">C. Rauen</a>.'
 
 # Build settings
 markdown: kramdown
