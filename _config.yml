@@ -47,8 +47,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Große Freiheit 69
-  - line: 22767 Hamburg
+  - line: c/o betahaus Hamburg
+  - line: Eifflerstr. 43
+  - line: 22769 Hamburg
   - line: Germany
 
 # Credits content
