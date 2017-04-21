@@ -127,9 +127,9 @@ section.success {
 }
 
 @media(max-width:767px) {
-    header .container {
-        padding-top: 40px;
-    }
+  header .container {
+      padding-top: 40px;
+  }
 }
 
 #portfolio .portfolio-item {
@@ -197,6 +197,14 @@ section.success {
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
+    }
+}
+
+@media(min-width:1200px) {
+    #portfolio .brands p {
+      position: relative;
+      top: 50%;
+      transform: translateY(50%);
     }
 }
 
@@ -365,6 +373,7 @@ footer .footer-below {
     color: white;
     font-size: 12px;
     opacity: 0.75;
+    text-shadow: 0 0 15px #ccc;
 }
 
 .portfolio-modal .modal-content .item-details {

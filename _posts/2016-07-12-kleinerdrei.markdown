@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 3
 img: kleinerdrei.jpg
 alt: kleinerdrei Concept Store in Hamburg
 attribution: Photo by D. Manduzio
 link: "http://www.kleinerdrei.co"
-project-date: 2014 to present
+project-date: 2014 to 2017
 client: Own project
 role: Co-founder & managing director
 service: Concept and business development, planning and controlling, management of retail, suppliers, human resources, and course offers
