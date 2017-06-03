@@ -4,7 +4,7 @@ modal-id: 1
 img: savedemocracy.jpg
 alt: Save Democracy Hackday in Hamburg
 attribution: Photo by Kathrine Uldbæk Nielsen
-link: "http://savdemocracy.camp"
+link: "http://savedemocracy.camp"
 project-date: 2016 to present
 client: Own project
 role: Co-founder

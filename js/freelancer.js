@@ -35,3 +35,32 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+// Modal behaviour extension from https://gist.github.com/tdsymonds/23917215f591a9e1442a38783c77f0f0
+$('div.modal').on('show.bs.modal', function() {
+  var modal = this;
+  var hash = modal.id;
+  window.location.hash = hash;
+  window.onhashchange = function() {
+      if (!location.hash){
+          $(modal).modal('hide');
+      } else {
+          $(modal).modal('show');
+      }
+  }
+});
+
+$('div.modal').on('hidden.bs.modal', function() {
+  var hash = this.id;
+  history.replaceState('', document.title, window.location.pathname);
+});
+
+$('div.modal div.close-modal').on('click', function(){
+  window.history.back();
+})
+
+$('div.modal').keyup(function(e) {
+  if (e.keyCode == 27){
+      window.history.back();
+  }
+});
