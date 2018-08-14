@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 img: todayimade.jpg
 alt: image-alt
-link: "http://www.todayimade.co/"
+link: ""
 project-date: 2012 – 2013
 client: Own project
 role: Co-founder
