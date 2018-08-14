@@ -14,6 +14,10 @@
               {% case post.title %}
                 {% when 'Kleinerdrei' %}
                   {{ post.title | downcase }}
+                {% when 'Savedemocracy' %}
+                  {{ "Save Democracy" }}
+                {% when 'Fintechweek' %}
+                  {{ "Fintech Week" }}
                 {% else %}
                   {{ post.title }}
               {% endcase %}

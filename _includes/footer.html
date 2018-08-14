@@ -14,11 +14,11 @@
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
-                            {% for network in site.social %}
+                          {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title | downcase }}"></i></a>
                             </li>
-		                    {% endfor %}
+		                      {% endfor %}
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }} | <a href="impressum">Impressum</a>
+                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }} | <a href="/legal">Legal Notice</a> | <a href="/privacy">Privacy Policy</a>
                     </div>
                 </div>
             </div>

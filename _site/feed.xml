@@ -5,6 +5,7 @@
     <description>Freelance support for ideation, concept development, project management, and process optimization.</description>
     <link>https://nicolebeholz.com/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <pubDate>Thu, 14 Jul 2016 17:43:41 +0100</pubDate>
     <lastBuildDate>Thu, 14 Jul 2016 17:43:41 +0100</lastBuildDate>
@@ -12,14 +13,44 @@
     <pubDate>Thu, 14 Jul 2016 11:32:44 +0100</pubDate>
     <lastBuildDate>Thu, 14 Jul 2016 11:32:44 +0100</lastBuildDate>
 >>>>>>> Stashed changes
+=======
+    <pubDate>Mon, 21 May 2018 19:24:42 +0200</pubDate>
+    <lastBuildDate>Mon, 21 May 2018 19:24:42 +0200</lastBuildDate>
+>>>>>>> 18bc5b599c806c1ad7bfadfdcb13f68ff7b4bcdc
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Savedemocracy</title>
+        <description>Save Democracy is a nonparty, nonprofit initiative encouraging citizens to stand up for a strong, open and dynamic democracy. In times of right-wing populism, exclusion and powerlessness, it aims to be a platform for political engagement and participation as well as networking of people, projects and ideas.</description>
+        <pubDate>Fri, 21 Apr 2017 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2017/04/21/savedemocracy/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2017/04/21/savedemocracy/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fintechweek</title>
+        <description>Fintech Week Hamburg is a conference showcasing and connecting German fintech startups and companies. It gathers more than 1,000 stakeholders from the fintech and banking sector to discuss innovation in their industry, network, and create strategies for the future.</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2017/04/20/fintechweek/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2017/04/20/fintechweek/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Kleinerdrei</title>
         <description>kleinerdrei is a place for everything that’s important in the first three years of life: It combines a concept store for ergonomic, environmentally-friendly and beautiful products with a wide ranged offer of courses for babies and parents and with a midwife practice.</description>
+<<<<<<< HEAD
         <pubDate>Tue, 12 Jul 2016 00:00:00 +0100</pubDate>
         <link>https://nicolebeholz.com/2016/07/12/kleinerdrei/</link>
         <guid isPermaLink="true">https://nicolebeholz.com/2016/07/12/kleinerdrei/</guid>
+=======
+        <pubDate>Tue, 12 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2016/07/12/kleinerdrei/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2016/07/12/kleinerdrei/</guid>
+>>>>>>> 18bc5b599c806c1ad7bfadfdcb13f68ff7b4bcdc
         
         
       </item>
@@ -27,9 +58,15 @@
       <item>
         <title>Zweimeilenladen</title>
         <description>Zweimeilenladen is a pop-up store for local products and local production. It gathers the best products created within a two-mile-radius, from coffee and chocolate to clothing and accessories, to books, bikes and beds. In addition, it hosts numerous events and workshops on local production and DIY.</description>
+<<<<<<< HEAD
         <pubDate>Mon, 11 Jul 2016 00:00:00 +0100</pubDate>
         <link>https://nicolebeholz.com/2016/07/11/zweimeilenladen/</link>
         <guid isPermaLink="true">https://nicolebeholz.com/2016/07/11/zweimeilenladen/</guid>
+=======
+        <pubDate>Mon, 11 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2016/07/11/zweimeilenladen/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2016/07/11/zweimeilenladen/</guid>
+>>>>>>> 18bc5b599c806c1ad7bfadfdcb13f68ff7b4bcdc
         
         
       </item>
@@ -37,9 +74,15 @@
       <item>
         <title>Abhati</title>
         <description>Abhati offers a range of premium natural skincare products, with a liquid soap called “One Hand Washes The Other” as the headline product. 50% of the proceeds are being passed on to buy toilets for schools in India. We developed branding and packaging and produced a crowdfunding video for it.</description>
+<<<<<<< HEAD
         <pubDate>Sun, 10 Jul 2016 00:00:00 +0100</pubDate>
         <link>https://nicolebeholz.com/2016/07/10/Abhati/</link>
         <guid isPermaLink="true">https://nicolebeholz.com/2016/07/10/Abhati/</guid>
+=======
+        <pubDate>Sun, 10 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2016/07/10/Abhati/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2016/07/10/Abhati/</guid>
+>>>>>>> 18bc5b599c806c1ad7bfadfdcb13f68ff7b4bcdc
         
         
       </item>
@@ -47,9 +90,15 @@
       <item>
         <title>Arjowiggings</title>
         <description>Arjowiggings is a leading manufacturer of creative papers. They asked Paperlux to reinvent the bookmark – and we did! The result is a playful, paper-based 3D object which is able to mark a line or even a single word. </description>
+<<<<<<< HEAD
         <pubDate>Sat, 09 Jul 2016 00:00:00 +0100</pubDate>
         <link>https://nicolebeholz.com/2016/07/09/Arjowiggings/</link>
         <guid isPermaLink="true">https://nicolebeholz.com/2016/07/09/Arjowiggings/</guid>
+=======
+        <pubDate>Sat, 09 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2016/07/09/Arjowiggings/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2016/07/09/Arjowiggings/</guid>
+>>>>>>> 18bc5b599c806c1ad7bfadfdcb13f68ff7b4bcdc
         
         
       </item>
@@ -57,9 +106,15 @@
       <item>
         <title>Today I Made</title>
         <description>Today I made was an online platform to help people share the stuff they made. From April 2012 to April 2013 we connected hundreds of makers and collected crazy, unexpected, beautiful and helpful things – from small robots to amazing food, from clothes to web apps.</description>
+<<<<<<< HEAD
         <pubDate>Fri, 08 Jul 2016 00:00:00 +0100</pubDate>
         <link>https://nicolebeholz.com/2016/07/08/today-i-made/</link>
         <guid isPermaLink="true">https://nicolebeholz.com/2016/07/08/today-i-made/</guid>
+=======
+        <pubDate>Fri, 08 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://nicolebeholz.com/2016/07/08/today-i-made/</link>
+        <guid isPermaLink="true">http://nicolebeholz.com/2016/07/08/today-i-made/</guid>
+>>>>>>> 18bc5b599c806c1ad7bfadfdcb13f68ff7b4bcdc
         
         
       </item>
